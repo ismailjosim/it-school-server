@@ -1,0 +1,44 @@
+[
+  {
+    "id": 100,
+    "picture": "https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png",
+    "course fee": 4500,
+    "name": "Python",
+    "details":"In the world of programming, Python is known as one of the most popular and fastest-growing programming languages. It can be defined as a high-level, interpreted, object-oriented scripting language, and a general-purpose language. There are various programming languages in the modern IT market space, but only Python has become quite widespread, why so? This is a fact, and a question raised by many people around the world."
+  },
+  {
+    "id": 101,
+    "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210322182301/PHP-Tutorial1.png",
+    "course fee": 5000,
+    "name": "PHP",
+    "details" : "The PHP programming language has been around for over two decades and established itself as a powerful and reliable solution, gaining an army of supporters and admirers. However, we need to acknowledge the elePHPant in the room: this coding language is gradually losing its popularity in favor of more recent and optimized counterparts. Let’s have a look at this technology and list pros and cons of PHP, define its area of use, and compare it with several competitive development tools."
+  },
+  {
+    "id": 102,
+    "picture": "https://www.webtrainingroom.com/imgsb/learn-csharp.png",
+    "course fee": 3500,
+    "name": "C#",
+    "details": "C# is a modern, general-purpose, object-oriented programming language developed by Microsoft and approved by European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO)C# is designed for Common Language Infrastructure (CLI), which consists of the executable code and runtime environment that allows the use of various high-level languages on different computer platforms and architectures."
+  },
+  {
+    "id": 103,
+    "picture": "http://www.programmerspoint.in/images/core-java-course.jpg",
+    "course fee": 4500,
+    "name": "JAVA",
+    "details": "Java has been consistently holding the top position of the TIOBE index among all other programming languages. Though many new languages have been discovered, the fame of Java never goes down. Java has been ruling over all other languages for more than 20 years.he majority of experts cannot deny the fact that Java is one of the most powerful and effective languages ever created and is the most widely used programming language in many areas."
+  },
+  {
+    "id": 104,
+    "picture": "https://miro.medium.com/max/800/1*wf5X21iwgrRR1mnWuPp7WA.png",
+    "course fee": 5500,
+    "name": "JavaScript",
+    "details": "JavaScript might be a client-side scripting language, inferring that the client's browser handles ASCII text file processing rather than an online server. With the aid of JavaScript, this can load the webpage without contacting the primary server.For instance, a JavaScript function might verify that all the required fields are filled out on an online form before it is submitted. The JavaScript code has the ability to output an error message before any data is actually sent to the server"
+  },
+  {
+    "id": 105,
+    "picture": "https://www.evelogics.com/wp-content/uploads/2022/06/61be16afc2df9.jpg",
+    "course fee": 6500,
+    "name": "Web Development",
+    "details": "This article is for people who are aspiring to become web developers and also people who are already Web developers.Web development is a domain of computer science where Websites and web apps are built using different programming languages like Javascript, Python, HTML, CSS, Ruby, PHP, SQL and much more.There are lots of benefits of becoming a Web developer. I’m listing the topmost advantages of why you should learn web development"
+  }
+]
