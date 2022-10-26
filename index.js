@@ -9,7 +9,7 @@ const news = require('./data/news.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send("News API Running!");
+    res.send("IT School Server is Running!");
 })
 
 app.get('/courses', (req, res) => {
@@ -17,12 +17,12 @@ app.get('/courses', (req, res) => {
 })
 
 app.get('/course/:id', (req, res) => {
-	 const id = req.params.id;
+    const id = req.params.id;
     const course = coursesData.find(n => n.id == id);
     res.send(course);
 })
 
 
 app.listen(port, () => {
-    console.log(`News Server Running on Port: ${ port }`)
+    console.log(`IT School Server is Running on Port: ${ port }`)
 })
