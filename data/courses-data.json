@@ -1,6 +1,7 @@
 [
 	{
 		"id": 6001,
+		"price": 89.99,
 		"title": "The Complete 2022 Web Development Bootcamp",
 		"subtitle": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
 		"thumbnail": "https://i.ibb.co/cK5RxLv/web-development.jpg",
@@ -73,6 +74,7 @@
 	},
 	{
 		"id": 6002,
+		"price": 49.99,
 		"title": "The Data Science Course 2022: Complete Data Science Bootcamp",
 		"subtitle": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
 		"thumbnail": "https://i.ibb.co/GFHKbm4/data-science.jpg",
@@ -123,6 +125,7 @@
 	},
 	{
 		"id": 6003,
+		"price": 8.99,
 		"title": "The Complete Cyber Security Course : Network Security!",
 		"subtitle": "Volume 2 : Network Security, WiFi Security, WiFi Hackers, Firewalls, Wireshark, Secure Networking. + Password Managers",
 		"thumbnail": "https://i.ibb.co/StmqW0D/network-and-security.jpg",
@@ -173,6 +176,7 @@
 	},
 	{
 		"id": 6004,
+		"price": 14.99,
 		"title": "Complete C# Unity Game Developer 2D",
 		"subtitle": "Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",
 		"thumbnail": "https://i.ibb.co/KWNnK0H/game-development.jpg",
@@ -221,6 +225,7 @@
 	},
 	{
 		"id": 6005,
+		"price": 99.99,
 		"title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
 		"subtitle": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
 		"thumbnail": "https://i.ibb.co/xYQSXbf/machine-learning.jpg",
@@ -272,6 +277,7 @@
 	},
 	{
 		"id": 6006,
+		"price": 19.99,
 		"title": "Mobile App Development with Flutter & Dart (iOS and Android)e",
 		"subtitle": "The Complete iOS and Android Mobile App Development Course with Flutter and Dart (2022).",
 		"thumbnail": "https://i.ibb.co/DQ9pTJG/mobile-app-development.jpg",
