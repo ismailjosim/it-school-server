@@ -1,44 +1,327 @@
 [
-  {
-    "id": 100,
-    "picture": "https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png",
-    "course fee": 4500,
-    "name": "Python",
-    "details":"In the world of programming, Python is known as one of the most popular and fastest-growing programming languages. It can be defined as a high-level, interpreted, object-oriented scripting language, and a general-purpose language. There are various programming languages in the modern IT market space, but only Python has become quite widespread, why so? This is a fact, and a question raised by many people around the world."
-  },
-  {
-    "id": 101,
-    "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210322182301/PHP-Tutorial1.png",
-    "course fee": 5000,
-    "name": "PHP",
-    "details" : "The PHP programming language has been around for over two decades and established itself as a powerful and reliable solution, gaining an army of supporters and admirers. However, we need to acknowledge the elePHPant in the room: this coding language is gradually losing its popularity in favor of more recent and optimized counterparts. Let’s have a look at this technology and list pros and cons of PHP, define its area of use, and compare it with several competitive development tools."
-  },
-  {
-    "id": 102,
-    "picture": "https://www.webtrainingroom.com/imgsb/learn-csharp.png",
-    "course fee": 3500,
-    "name": "C#",
-    "details": "C# is a modern, general-purpose, object-oriented programming language developed by Microsoft and approved by European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO)C# is designed for Common Language Infrastructure (CLI), which consists of the executable code and runtime environment that allows the use of various high-level languages on different computer platforms and architectures."
-  },
-  {
-    "id": 103,
-    "picture": "http://www.programmerspoint.in/images/core-java-course.jpg",
-    "course fee": 4500,
-    "name": "JAVA",
-    "details": "Java has been consistently holding the top position of the TIOBE index among all other programming languages. Though many new languages have been discovered, the fame of Java never goes down. Java has been ruling over all other languages for more than 20 years.he majority of experts cannot deny the fact that Java is one of the most powerful and effective languages ever created and is the most widely used programming language in many areas."
-  },
-  {
-    "id": 104,
-    "picture": "https://miro.medium.com/max/800/1*wf5X21iwgrRR1mnWuPp7WA.png",
-    "course fee": 5500,
-    "name": "JavaScript",
-    "details": "JavaScript might be a client-side scripting language, inferring that the client's browser handles ASCII text file processing rather than an online server. With the aid of JavaScript, this can load the webpage without contacting the primary server.For instance, a JavaScript function might verify that all the required fields are filled out on an online form before it is submitted. The JavaScript code has the ability to output an error message before any data is actually sent to the server"
-  },
-  {
-    "id": 105,
-    "picture": "https://www.evelogics.com/wp-content/uploads/2022/06/61be16afc2df9.jpg",
-    "course fee": 6500,
-    "name": "Web Development",
-    "details": "This article is for people who are aspiring to become web developers and also people who are already Web developers.Web development is a domain of computer science where Websites and web apps are built using different programming languages like Javascript, Python, HTML, CSS, Ruby, PHP, SQL and much more.There are lots of benefits of becoming a Web developer. I’m listing the topmost advantages of why you should learn web development"
-  }
+	{
+		"id": 6001,
+		"title": "The Complete 2022 Web Development Bootcamp",
+		"subtitle": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+		"thumbnail": "https://i.ibb.co/cK5RxLv/web-development.jpg",
+		"details": [
+			{
+				"duration": "65 hours on-demand video",
+				"articles": "85 articles",
+				"resources": "49 downloadable resources",
+				"exercises": "8 coding exercises",
+				"access": "Full lifetime access",
+				"certificate": "Certificate of completion",
+				"rating": 4.7
+			},
+			{
+				"description1": "Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of It School",
+				"description2": "At 65+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery. Here's why:",
+				"lists": {
+					"list1": "The course is taught by the lead instructor at the App Brewery, London's leading in-person programming bootcamp.",
+					"list2": "The course has been updated to be 2022 ready and you'll be learning the latest tools and technologies used at large companies such as Apple, Google and Netflix.",
+					"list3": "This course doesn't cut any corners, there are beautiful animated explanation videos and tens of real-world projects which you will get to build.",
+					"list4": "The curriculum was developed over a period of four years, with comprehensive student testing and feedback.",
+					"list5": "We've taught over a million students how to code and many have gone on to change their lives by becoming professional developers or starting their own tech startup."
+				},
+				"description3": "We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a web developer.",
+				"description4": "The course includes over 65 hours of HD video tutorials and builds your programming knowledge while making real-world websites and web apps.",
+				"description6": "Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:",
+				"keyPoints": [
+					"Front-End Web Development",
+					"HTML 5",
+					"CSS 3",
+					"Bootstrap 4",
+					"Javascript ES6",
+					"DOM Manipulation",
+					"Bash Command Line",
+					"Git, GitHub and Version Control",
+					"Backend Web Development",
+					"Node.js",
+					"NPM",
+					"Express.js",
+					"EJS",
+					"REST",
+					"APIs",
+					"Databases",
+					"SQL",
+					"MongoDB",
+					"Mongoose",
+					"Authentication",
+					"Firebase",
+					"React.js",
+					"React Hooks",
+					"Web Design",
+					"Deployment with GitHub Pages, Heroku and MongoDB Atlas",
+					"Web3 Development on the Internet Computer",
+					"Blockchain technology",
+					"Token contract development",
+					"NFT minting, buying and selling logic"
+				],
+				"description7": "REMEMBER… I'm so confident that you'll love this course that we're offering a FULL money-back guarantee for 30 days! So it's a complete no-brainier, sign up today with ZERO risk and EVERYTHING to gain.",
+				"description8": "So what are you waiting for? Click the buy now button and join the world's highest-rated web development course"
+			},
+			{
+				"requirements": {
+					"requirement1": "No programming experience needed - I'll teach you everything you need to know",
+					"requirement2": "A computer with access to the internet",
+					"requirement3": "No paid software required",
+					"requirement4": "I'll walk you through, step-by-step how to get all the software installed and set up"
+				}
+			}
+		]
+	},
+	{
+		"id": 6002,
+		"title": "The Data Science Course 2022: Complete Data Science Bootcamp",
+		"subtitle": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+		"thumbnail": "https://i.ibb.co/GFHKbm4/data-science.jpg",
+		"details": [
+			{
+				"duration": "31 hours on-demand video",
+				"articles": "92 articles",
+				"resources": "542 downloadable resources",
+				"exercises": "20 coding exercises",
+				"access": "Full lifetime access",
+				"certificate": "Certificate of completion",
+				"rating": 4.6
+			},
+			{
+				"description1": "Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace.",
+				"description2": "However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist.   ",
+				"lists": {
+					"list1": "Big data, business intelligence, business analytics, machine learning and artificial intelligence. We know these buzzwords belong to the field of data science but what do they all mean?",
+					"list2": "Learning the tools is the first step to doing data science. You must first see the big picture to then examine the parts in detail.",
+					"list3": "We take a detailed look specifically at calculus and linear algebra as they are the subfields data science relies on.",
+					"list4": "You need to think like a scientist before you can become a scientist. Statistics trains your mind to frame problems as hypotheses and gives you techniques to test these hypotheses, just like a scientist.",
+					"list5": "Python is a relatively new programming language and, unlike R, it is a general-purpose programming language. You can do anything with it! Web applications, computer games and data science are among many of its capabilities. That's why, in a short space of time, it has managed to disrupt many disciplines. Extremely powerful libraries have been developed to enable data manipulation, transformation, and visualization. Where Python really shines however, is when it deals with machine and deep learning"
+				},
+				"description3": "Data scientists don't just need to deal with data and solve data driven problems. They also need to convince company executives of the right decisions to make. These executives may not be well versed in data science, so the data scientist must but be able to present and visualize the data's story in a way they will understand. That's where Tableau comes in - and we will help you become an expert story teller using the leading visualization software in business intelligence and data science.",
+				"description4": "Regressions, clustering, and factor analysis are all disciplines that were invented before machine learning. However, now these statistical methods are all performed through machine learning to provide predictions with unparalleled accuracy. This section will look at these techniques in detail.",
+				"description6": "***What you get***",
+				"keyPoints": [
+					"A $1250 data science training program",
+					"Active Q&A support",
+					"All the knowledge to get hired as a data scientist",
+					"A community of data science learners",
+					"A certificate of completion",
+					"Access to future updates ",
+					"Solve real-life business cases that will get you the job"
+				],
+				"description7": "You will become a data scientist from scratch   We are happy to offer an unconditional 30-day money back in full guarantee. No risk for you. The content of the course is excellent, and this is a no-brainer for us, as we are certain you will love it.",
+				"description8": "Why wait? Every day is a missed opportunity. Click the “Buy Now” button and become a part of our data scientist program today."
+			},
+			{
+				"requirements": {
+					"requirement1": "No prior experience is required. We will start from the very basics",
+					"requirement2": "You'll need to install Anaconda. We will show you how to do that step by step",
+					"requirement3": "No need Profession level experience to start this course",
+					"requirement4": "Microsoft Excel 2003, 2010, 2013, 2016, or 365"
+				}
+			}
+		]
+	},
+	{
+		"id": 6003,
+		"title": "The Complete Cyber Security Course : Network Security!",
+		"subtitle": "Volume 2 : Network Security, WiFi Security, WiFi Hackers, Firewalls, Wireshark, Secure Networking. + Password Managers",
+		"thumbnail": "https://i.ibb.co/StmqW0D/network-and-security.jpg",
+		"details": [
+			{
+				"duration": "12.5 hours on-demand video",
+				"articles": "1 article",
+				"resources": "2 downloadable resources",
+				"exercises": "20 coding exercises",
+				"access": "Full lifetime access",
+				"certificate": "Certificate of completion",
+				"rating": 4.4
+			},
+			{
+				"description1": "Become a cyber security specialist.",
+				"description2": "After this course, you will be able to discover security vulnerabilities across an entire network, by using network hacking techniques and vulnerability scanning.",
+				"lists": {
+					"list1": "You will be able to architect your network for maximum security and prevent local and remote attacks. We also cover the use of custom router firmware to provide you with better network security services.",
+					"list2": "You will understand the various types of firewalls that are available and what threats each help mitigate.",
+					"list3": "Including layer 4 firewalls like Iptables on Linux and PF on MacOS and BSD. Virtual firewalls, host-based firewalls and application based firewalls like Pfsence. We cover firewalls on all platforms including Windows, Mac OS X and Linux for all types of use scenarios.",
+					"list4": "We explore in detail wireless security, the configurations that are required for maximum security and why. How Wi-Fi is hacked and how to mitigate those attacks. Covering everything from encryption weaknesses to evil twins, RF isolation, and Wi-Fi crackers.",
+					"list5": "You will master network monitoring to discover and identify potential hackers, malware and other adversaries that might be lurking on your network. Using tools like Wireshark, Tcpdump and Syslog."
+				},
+				"description3": "We then move away from network security and onto the details of how we are tracked online by corporations, nation-states your ISP and others. You will understand the techniques used like zombie super cookies, browser fingerprinting and how browser profiling works so third parties can establish who you are online.",
+				"description4": "We look at search engine privacy - and how to mitigate the tracking and privacy issues of search engines and their associated services.",
+				"description6": "Who this course is for:",
+				"keyPoints": [
+					"This course is for anyone who wants to become an expert in security, privacy, and anonymity. This volume covers network security attacking and defending. Online tracking and browser security.",
+					"For anyone who would love to gain a practical skillset in mitigating the risk from, malware, Trojans, hackers, trackers, cyber criminals and all online threats.",
+					"This course is for anyone who wants to keep their precious files, emails, accounts and personal information out of the hands of the bad guys.",
+					"For beginners and intermediate Internet users who are interested in security, safety, and privacy.",
+					"For those who want privacy and anonymity online from hackers, corporations and governments.",
+					"Access to future updates",
+					"This course is designed for personal and home Internet security, privacy, and anonymity. Most of the topics apply in the same way to a business, but the course is delivered as if to an individual for personal cybers security, privacy, and anonymity."
+				],
+				"description7": "Browser security - We cover one of the largest risks online, the browser. The doorway into your system. How to best reduce the attack surface of the browser and harden it for maximum security and privacy. A critical consideration for reducing your risk.",
+				"description8": "Finally you will fully understand how to best use methods of authentication including passwords and multi-factor authentication - soft tokens and hard tokens."
+			},
+			{
+				"requirements": {
+					"requirement1": "This course is designed for personal and home cyber security, privacy and anonymity. Most of the topics apply in the same way to a business, but the course is delivered as if to an individual for personal cyber security, privacy, and anonymity.",
+					"requirement2": "It is recommended that you watch volume 1 of this complete course before watching this volume (2) although it is not required.",
+					"requirement3": "Most items referenced in this course are free. But you may elect to purchase additional software, hardware and services discussed in the course. Although It is absolutely not necessary to buy anything to understand and follow the course",
+					"requirement4": "You should have a basic understanding of networking concepts."
+				}
+			}
+		]
+	},
+	{
+		"id": 6004,
+		"title": "Complete C# Unity Game Developer 2D",
+		"subtitle": "Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",
+		"thumbnail": "https://i.ibb.co/KWNnK0H/game-development.jpg",
+		"details": [
+			{
+				"duration": "18.5 hours on-demand video",
+				"articles": "3 article",
+				"resources": "7 downloadable resources",
+				"exercises": "6 exercises",
+				"access": "Full lifetime access",
+				"certificate": "Certificate of completion",
+				"rating": 4.7
+			},
+			{
+				"description1": "The course has recently been remastered in Unity 2021.1.",
+				"description2": "This course started as a runaway success on Kickstarter and has gone on to become the most popular and most watched Unity game development course on IT School. The course has full English closed-captions throughout.",
+				"lists": {
+					"list1": "Snow Boarder: A simple Side-Scrolling jumping game using Unity's sprite shape tool",
+					"list2": "Laser Defender: A Top-Down Space Shooter with enemies to shoot and dodge;",
+					"list3": "TileVania: A fast-paced classic Side-Scrolling Platformer using Unity's Tilemap tool;",
+					"list4": "Quiz Master: A Quiz Game that focuses on learning how to set up user interface in Unity.",
+					"list5": "Physics engine modification"
+				},
+				"description3": "Prefer to start with 3D games? Check-out our sister course, the Complete C# Unity Developer 3D. Already have some Unity knowledge, and want something more challenging? Check-out our epic RPG Core Combat Creator. More interested in creating 3D models from scratch? Start with our Complete Blender Creator course. Our green leaf logo is a symbol of passion and quality.",
+				"description4": "You will have access to a course forum where you can discuss topics on a course-wide basis, or down to the individual video. Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time). Check out our reviews to see how people love this feature. ",
+				"description6": "Who this course is for:",
+				"keyPoints": [
+					"Competent and confident with using a computer.",
+					"Some programming experience helpful, but not required.",
+					"Artists who want to learn to bring their assets into games.",
+					"Complete beginners who are willing to work hard.",
+					"Developers who want to re-skill across to game development."
+				],
+				"description7": "Anyone who wants to learn to create games: Unity is a fantastic platform which enables you to make production-quality games. Furthermore these games can be created for Windows, MacOS, iOS, Android and Web from a single source!",
+				"description8": "If you're a complete beginner, we'll teach you all the coding and game design principles you'll need. If you're an artist, we'll teach you to bring your assets to life. If you're a coder, we'll teach you game design principles. Dive in and learn Unity now, you won't be disappointed!"
+			},
+			{
+				"requirements": {
+					"requirement1": "This course is designed for beginner friendly. so everyone can join this course.",
+					"requirement2": "Some computer knowledge is required",
+					"requirement3": "Mac or PC capable of running Unity 2019 or later.",
+					"requirement4": "A passion and willingness to learn how to code."
+				}
+			}
+		]
+	},
+	{
+		"id": 6005,
+		"title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+		"subtitle": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+		"thumbnail": "https://i.ibb.co/xYQSXbf/machine-learning.jpg",
+		"details": [
+			{
+				"duration": "44 hours on-demand video",
+				"articles": "64 article",
+				"resources": "37 downloadable resources",
+				"exercises": "10 exercises",
+				"access": "Full lifetime access",
+				"certificate": "Certificate of completion",
+				"rating": 4.5
+			},
+			{
+				"description1": "Interested in the field of Machine Learning? Then this course is for you!",
+				"description2": "This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.This course is fun and exciting, but at the same time, we dive deep into Machine Learning. It is structured the following way:",
+
+				"lists": {
+					"list1": "Part 1 - Data Preprocessing",
+					"list2": "Part 2 - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR,Decision Tree Regression, Random Forest Regression",
+					"list3": "Part 3 - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification",
+					"list4": "Part 4 - Clustering: K-Means, Hierarchical Clustering, Association Rule Learning: Apriori, Eclat",
+					"list5": "Part 5 - Association Rule Learning: Apriori, Eclat"
+				},
+				"description3": "Moreover, the course is packed with practical exercises that are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.",
+				"description4": "And as a bonus, this course includes both Python and R code templates which you can download and use on your own projects.",
+				"description6": "Who this course is for:",
+				"keyPoints": [
+					"Anyone interested in Machine Learning.",
+					"Students who have at least high school knowledge in math and who want to start learning Machine Learning.",
+					"Any intermediate level people who know the basics of machine learning, including the classical algorithms like linear regression or logistic regression, but who want to learn more about it and explore all the different fields of Machine Learning.",
+					"Any people who are not that comfortable with coding but who are interested in Machine Learning and want to apply it easily on datasets.",
+					"Any students in college who want to start a career in Data Science.",
+					"Any data analysts who want to level up in Machine Learning.",
+					"Any people who are not satisfied with their job and who want to become a Data Scientist."
+				],
+				"description7": "We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.",
+				"description8": "If you're a complete beginner, we'll teach you all the coding and game design principles you'll need. If you're an artist, we'll teach you to bring your assets to life. If you're a coder, we'll teach you game design principles. Dive in and learn Unity now, you won't be disappointed!"
+			},
+			{
+				"requirements": {
+					"requirement1": "This course is designed for beginner friendly. so everyone can join this course.",
+					"requirement2": "Some computer knowledge is required",
+					"requirement3": "Just some high school mathematics level.",
+					"requirement4": "A passion and willingness to learn."
+				}
+			}
+		]
+	},
+	{
+		"id": 6006,
+		"title": "Mobile App Development with Flutter & Dart (iOS and Android)e",
+		"subtitle": "The Complete iOS and Android Mobile App Development Course with Flutter and Dart (2022).",
+		"thumbnail": "https://i.ibb.co/DQ9pTJG/mobile-app-development.jpg",
+		"details": [
+			{
+				"duration": "27.5 hours on-demand video",
+				"articles": "16 article",
+				"resources": "5 downloadable resources",
+				"exercises": "22 exercises",
+				"access": "Full lifetime access",
+				"certificate": "Certificate of completion",
+				"rating": 4.3
+			},
+			{
+				"description1": "Welcome to the Complete App Development Bootcamp.",
+				"description2": "This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.This course is fun and exciting, but at the same time, we dive deep into Machine Learning. It is structured the following way:",
+
+				"lists": {
+					"list1": "Part 1 - Data Preprocessing",
+					"list2": "Part 2 - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR,Decision Tree Regression, Random Forest Regression",
+					"list3": "Part 3 - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification",
+					"list4": "Part 4 - Clustering: K-Means, Hierarchical Clustering, Association Rule Learning: Apriori, Eclat",
+					"list5": "Part 5 - Association Rule Learning: Apriori, Eclat"
+				},
+				"description3": "Moreover, the course is packed with practical exercises that are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.",
+				"description4": "And as a bonus, this course includes both Python and R code templates which you can download and use on your own projects.",
+				"description6": "Who this course is for:",
+				"keyPoints": [
+					"Concepts of Object Oriented Programming (OOP): The type system, variables, functions and methods, inheritance, structures, classes and protocols.",
+					"Control Structures: Using IF/ELSE clauses, Switch statements and logic to control the flow of execution.",
+					"Data Structures: How to work with collections, such as arrays and dictionaries.",
+					"Software Design: How to organize and format code for readability and how to implement the Model View Controller (MVC) design pattern, Apple's favorite delegation pattern and the publisher pattern.",
+					"Networking: How to make asynchronous API calls, store and retrieve data from the cloud, and use the JSON format for server communication.",
+					"Persistent Local Data Storage: How to use Core Data, Realm, Codable and User Defaults to store your app data locally.",
+					"How to Implement In-App Purchases with Apple StoreKit",
+					"Machine Learning: How to make artificially intelligent apps and build your own machine learning models using iOS 13's new CoreML2 and CreateML frameworks.",
+					"Augmented Reality: How to create 3D objects in augmented reality and create incredible 3D animations and real-life interactions using Apple's latest ARKit2 framework.",
+					"SwiftUI: How to use Apple's brand new UI framework to create user interfaces programmatically that look good across all Apple products."
+				],
+				"description7": "Don't waste another minute of your precious life on poor quality videos on YouTube. Or instructors who you can't understand. Or teachers who have no real world in-person teaching experience. Your time is precious. Take this course and find out why everybody is raving about it and why over 39,000 students rated it 5 stars!",
+				"description8": "So what are you waiting for? Click the buy now button and join the world's most highly rated iOS 13 app development course."
+			},
+			{
+				"requirements": {
+					"requirement1": "If you are an absolute beginner to coding, then take this course.",
+					"requirement2": "If you are a seasoned programmer, then take this course to to get up to speed quickly with Swift 5.1 and native app development. Start with the Xcode walk through lesson and we'll get you familiar with iOS development in no time!",
+					"requirement3": "If you are switching from Objective-C to Swift then this is a fast-track way of doing it. You can get started straight away with the Intermediate Swift Language module.",
+					"requirement4": "If you are a pro iOS developer and want to quickly get up to date with Apple's latest technology, then start with the modules on SwiftUI, ARKit and CoreML."
+				}
+			}
+		]
+	}
 ]
